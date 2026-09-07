@@ -1,2 +1,2 @@
-# Klasse10-2026-27-bung
+# Klasse10-2026-27-Übung
 zur Übung
