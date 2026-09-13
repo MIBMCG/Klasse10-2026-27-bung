@@ -6,4 +6,4 @@
 
 1. Zu hören
 2. Alle Aufgaben bewältigen
-3. Nachdem unterricht allgge Git-Befehle verstehen wie zum Beispiel `git push`gggg
+3. Nachdem Unterricht alle Git-Befehle verstehen wie zum Beispiel `git push`
