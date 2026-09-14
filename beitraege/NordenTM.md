@@ -8,3 +8,7 @@ Ich erwarte mir von Git-Hub:
 -zugrif auf millionen von opensurce Projecten
 -verbesserte Zusammenarbeit
 test1
+
+## Git status 
+
+`git status` überprüft den status
