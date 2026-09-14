@@ -10,3 +10,6 @@
 
 ### ist cool
 
+## Mein wichtigster Git-Befehl
+
+Der wichtigste Befehl ist für mich `git pull`, weil ich code von anderen nehemen kann (kp)
