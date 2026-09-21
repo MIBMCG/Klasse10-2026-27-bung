@@ -1,0 +1,11 @@
+#NoahsBeitrag
+„Git hilft dabei, Änderungen nachvollziehbar zu speichern.“
+- Keine Komplikationen beim pullen
+- Gute Aufgabenzuteilen
+- Paralleles Arbeiten
+
+`git pull`
+`git add.`
+`git status`
+
+Dieser Satz wurde im Web hinzugefügt
