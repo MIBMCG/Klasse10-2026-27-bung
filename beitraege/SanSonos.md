@@ -11,3 +11,5 @@ Git hilft dabei, Änderungen nachvollziehbar zu speichern.
 ## Mein wichtigster Git-Befehl
 
 Der wichtigste Befehl ist für mich `git add`, weil man dabei neue Veränderung hinzufügt.
+
+Das ist eine weitere Änderung.
