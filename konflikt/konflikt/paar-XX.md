@@ -1,1 +1,1 @@
-Consti ist Gay
+Consti ist Gay.
