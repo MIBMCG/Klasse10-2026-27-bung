@@ -44,11 +44,7 @@ Git kann die konkurrierenden Änderungen nun möglicherweise nicht automatisch z
 In der Datei erscheinen Konfliktmarker nach diesem Prinzip:
 
 ```text
-<<<<<<< HEAD
 meine Version
-=======
-andere Version
->>>>>>> ...
 ```
 
 ## E. Konflikt lösen
