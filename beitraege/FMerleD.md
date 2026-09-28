@@ -7,4 +7,4 @@ Git hilft dabei, Änderungen nachvollziehbar zu speichern.
 
 `git status`
 g
-Änderung Aufgabe 2
+Änderung für Aufgabe 2
