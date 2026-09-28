@@ -7,4 +7,5 @@ Git pull lädt die neuesten Änderungen von GitHub herunter und fügt sie direkt
 
 ## Beispiel:
 
-`git pull`
+```bash
+git pull
