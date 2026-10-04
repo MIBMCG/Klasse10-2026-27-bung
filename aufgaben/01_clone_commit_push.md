@@ -6,7 +6,7 @@ Remote - entfernt gespeichertes Repository
 **Ziel:** Du kannst ein Repository klonen, eine Markdown-Datei verändern, die Änderung stagen, committen und pushen.
 
 ## A. Repository klonen
-
+https://github.com/MIBMCG/Klasse10-2026-27-bung.git
 1. Kopiere auf GitHub über **Code -> HTTPS** die Repository-Adresse.
 2. Öffne PowerShell oder Git Bash im gewünschten Arbeitsordner.
 3. Führe aus:
