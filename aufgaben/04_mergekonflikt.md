@@ -70,6 +70,11 @@ Danach kann auch der Pull Request von Person B wieder zusammengeführt werden.
 
 ## Reflexion
 
-1. Warum konnte Git den Konflikt nicht selbstständig lösen?
-2. Nenne zwei Verhaltensweisen, mit denen Teams unnötige Merge-Konflikte reduzieren können.
-3. Warum ist ein Merge-Konflikt kein „Fehler von Git“?
+Warum konnte Git den Konflikt nicht selbstständig lösen?
+Git versteht manchmal den Sinn und den Inhalt eines Codes bzw. eines Konfliktes, weshalb es einen Konflikt nicht so einfach lösen kann.
+
+Nenne zwei Verhaltensweisen, mit denen Teams unnötige Merge-Konflikte reduzieren können.
+Clean Code & Formatierung und Dateikonflikte vermeiden.
+
+Warum ist ein Merge-Konflikt kein „Fehler von Git“?
+Merge-Konflikt ist kein Fehler von Git, sondern eine gute Sicherheitsmaßnahme, um die inneren Dateien bzw. Codes vor Fehlern und Überschreibungen zu schützen. 
