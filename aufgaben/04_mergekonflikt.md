@@ -71,7 +71,7 @@ Danach kann auch der Pull Request von Person B wieder zusammengeführt werden.
 ## Reflexion
 
 Warum konnte Git den Konflikt nicht selbstständig lösen?
-Git versteht manchmal den Sinn und den Inhalt eines Codes bzw. eines Konfliktes, weshalb es einen Konflikt nicht so einfach lösen kann.
+Git versteht manchmal den Sinn und den Inhalt eines Codes bzw. eines Konfliktes nicht, weshalb es einen Konflikt nicht so einfach lösen kann.
 
 Nenne zwei Verhaltensweisen, mit denen Teams unnötige Merge-Konflikte reduzieren können.
 Clean Code & Formatierung und Dateikonflikte vermeiden.
