@@ -6,5 +6,3 @@ Ich erwarte vom Informatik Unterricht im Thema Github, dass...
 - wir lernen, in Github programme und spiele zu programmieren.
 - auch die, die weiter vorne/hinten sind gefördert werden.
 - wir spannende projektarbeiten haben werden.
-
-MAMA MIA
