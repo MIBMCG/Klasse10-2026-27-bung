@@ -1,16 +1,19 @@
 # Aufgabe 1 - Vom GitHub-Repository zum ersten eigenen Commit
+Commit - gespeicherter Schnappschuss einer Version
+Repository - Projekt mit Dateien und Versionsgeschichte
+Remote - entfernt gespeichertes Repository 
 
 **Ziel:** Du kannst ein Repository klonen, eine Markdown-Datei verändern, die Änderung stagen, committen und pushen.
 
 ## A. Repository klonen
-
+https://github.com/MIBMCG/Klasse10-2026-27-bung.git
 1. Kopiere auf GitHub über **Code -> HTTPS** die Repository-Adresse.
 2. Öffne PowerShell oder Git Bash im gewünschten Arbeitsordner.
 3. Führe aus:
 
 ```bash
 git clone REPOSITORY-URL
-cd REPOSITORY-NAME
+cd aufgabe 1
 git switch -c uebung-DEINBENUTZERNAME
 git status
 ```
@@ -57,3 +60,8 @@ git push -u origin uebung-DEINBENUTZERNAME
 ## Reflexion
 
 Erkläre in 2-3 Sätzen den Unterschied zwischen `git add`, `git commit` und `git push`.
+Der Befehl git add fügt Änderungen aus meinem Arbeitsverzeichnis zum Index hinzu, um sie für den nächsten Commit vorzubereiten.
+
+Der Befehl git commit ist wie ein Schnappschuss oder ein Speicherpunkt meines Projektzustands zu einem bestimmten Zeitpunkt.
+
+Der Befehl git push wird beschrieben als das Hochladen von lokalen Programmieränderungen auf einen zentralen Server. 
