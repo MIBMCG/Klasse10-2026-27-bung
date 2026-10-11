@@ -10,3 +10,7 @@ git Clone
 
 
 Viel Erfolg! 
+
+## Mein wichtigster Git-Befehl
+
+Der wichtigste Befehl ist für mich `git status`, weil er den aktuellen Stand meines Projektordners und des Staging-Bereichs anzeigt.
