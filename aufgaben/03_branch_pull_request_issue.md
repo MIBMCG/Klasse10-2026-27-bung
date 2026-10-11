@@ -81,3 +81,4 @@ Den Remote-Branch kannst du über GitHub löschen oder mit `git push origin --de
 ## Reflexion
 
 Warum ist ein eigener Branch mit Pull Request in einem Teamprojekt oft sinnvoller als direkt auf `main` zu arbeiten?
+Ein eigener Branch mit pull request schützt den Hauptcode vor Fehlern und verbessert die Zusammenarbeit in einem Team durch gegenseitige Prüfung.
